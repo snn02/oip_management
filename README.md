@@ -16,12 +16,12 @@
 - `01_vision` содержит верхнеуровневое видение, миссию, векторы развития и стратегические инициативы;
 - `02_strategy` содержит прикладные стратегии по направлениям ОИП и вспомогательные гайды по метрикам;
 - `03_processes` зарезервирован под описание рабочих процессов и регламентов, сейчас пуст;
-- `99_kbase` содержит общую методологическую базу знаний по управлению направлением.
+- `00_general_provisions` содержит общую методологическую базу знаний по управлению направлением.
 
 ## Основные документы
 
 - [Видение развития ОИП на 2025-2028 гг.](./01_vision/oip_vision_2026-2028.md)
-- [Модель управления Goals -> OKR -> KPI](./99_kbase/oip_management_model_goals_okr_kpi.md)
+- [Модель управления Goals -> OKR -> KPI](./00_general_provisions/oip_management_model_goals_okr_kpi.md)
 - [Проектное направление: стратегия](./02_strategy/02_projects/oip_project_strategy_2026.md)
 - [Проектное направление: метрики](./02_strategy/02_projects/oip_project_metrics_guide.md)
 - [Сопровождение: стратегия](./02_strategy/03_support/oip_support_strategy_2026.md)
@@ -55,8 +55,8 @@ oip_management/
 |   |-- [07_hr/](./02_strategy/07_hr/)                      # пока пусто
 |   `-- [08_finances/](./02_strategy/08_finances/)          # пока пусто
 |-- [03_processes/](./03_processes/)                        # пока пусто
-|-- [99_kbase/](./99_kbase/)
-|   `-- [oip_management_model_goals_okr_kpi.md](./99_kbase/oip_management_model_goals_okr_kpi.md)
+|-- [00_general_provisions/](./00_general_provisions/)
+|   `-- [oip_management_model_goals_okr_kpi.md](./00_general_provisions/oip_management_model_goals_okr_kpi.md)
 `-- [README.md](./README.md)
 ```
 
@@ -89,7 +89,7 @@ oip_management/
 
 Каталог под процессы, регламенты, схемы взаимодействия и операционные инструкции. На момент анализа файлов ещё не заполнен.
 
-### `99_kbase`
+### `00_general_provisions`
 
 Общая база знаний по модели управления направлением: как связаны стратегические цели, OKR, KPI и мотивация руководителей.
 
