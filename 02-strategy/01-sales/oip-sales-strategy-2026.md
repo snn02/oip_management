@@ -1,4 +1,4 @@
-# oip_sales_strategy_2026.md
+# oip-sales-strategy-2026.md
 
 # Продажи ОИП
 
@@ -289,7 +289,7 @@ KPI оцениваются **ежеквартально**
 |---|---|---|---|
 | KPI 1 | Валовая прибыль ОИП | фактическая ВП / план ВП | ≥ 80% |
 
-Подробное описание KPI в [oip_sales_metrics_guide.md](./oip_sales_metrics_guide.md).
+Подробное описание KPI в [oip-sales-metrics-guide.md](./oip-sales-metrics-guide.md).
 
 ---
 

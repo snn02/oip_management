@@ -116,8 +116,8 @@ window.OIP_PORTAL = {
         "СМБ принимает короткие задачи до 80 часов."
       ],
       docs: {
-        strategyPath: "02_strategy/01_sales/oip_sales_strategy_2026.md",
-        metricsPath: "02_strategy/01_sales/oip_sales_metrics_guide.md"
+        strategyPath: "02-strategy/01-sales/oip-sales-strategy-2026.md",
+        metricsPath: "02-strategy/01-sales/oip-sales-metrics-guide.md"
       }
     },
     {
@@ -230,8 +230,8 @@ window.OIP_PORTAL = {
         "СМБ передаёт задачи свыше 80 часов."
       ],
       docs: {
-        strategyPath: "02_strategy/02_projects/oip_project_strategy_2026.md",
-        metricsPath: "02_strategy/02_projects/oip_project_metrics_guide.md"
+        strategyPath: "02-strategy/02-projects/oip-project-strategy-2026.md",
+        metricsPath: "02-strategy/02-projects/oip-project-metrics-guide.md"
       }
     },
     {
@@ -326,8 +326,8 @@ window.OIP_PORTAL = {
         "СМБ передаёт клиентов, у которых появляется регулярный объём работ."
       ],
       docs: {
-        strategyPath: "02_strategy/03_support/oip_support_strategy_2026.md",
-        metricsPath: "02_strategy/03_support/oip_support_metrics_guide.md"
+        strategyPath: "02-strategy/03-support/oip-support-strategy-2026.md",
+        metricsPath: "02-strategy/03-support/oip-support-metrics-guide.md"
       }
     },
     {
@@ -439,8 +439,8 @@ window.OIP_PORTAL = {
         "Сопровождение принимает клиентов с регулярным объёмом работ."
       ],
       docs: {
-        strategyPath: "02_strategy/04_smb/oip_smb_strategy_2026.md",
-        metricsPath: "02_strategy/04_smb/oip_smb_metrics_guide.md"
+        strategyPath: "02-strategy/04-smb/oip-smb-strategy-2026.md",
+        metricsPath: "02-strategy/04-smb/oip-smb-metrics-guide.md"
       }
     },
     {
@@ -553,8 +553,8 @@ window.OIP_PORTAL = {
         "Продажи вовлекают техническую экспертизу на пресейлах и ранних оценках."
       ],
       docs: {
-        strategyPath: "02_strategy/05_delivery/oip_delivery_strategy_2026.md",
-        metricsPath: "02_strategy/05_delivery/oip_delivery_metrics_guide.md"
+        strategyPath: "02-strategy/05-delivery/oip-delivery-strategy-2026.md",
+        metricsPath: "02-strategy/05-delivery/oip-delivery-metrics-guide.md"
       }
     }
   ]

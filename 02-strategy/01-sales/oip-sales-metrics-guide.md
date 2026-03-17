@@ -1,5 +1,5 @@
 
-# oip_sales_metrics_guide.md
+# oip-sales-metrics-guide.md
 
 # Метрики продаж ОИП
 

@@ -13,70 +13,70 @@
 
 ## Логика структуры
 
-- `01_vision` содержит верхнеуровневое видение, миссию, векторы развития и стратегические инициативы;
-- `02_strategy` содержит прикладные стратегии по направлениям ОИП и вспомогательные гайды по метрикам;
-- `03_processes` зарезервирован под описание рабочих процессов и регламентов, сейчас пуст;
-- `00_general_provisions` содержит общую методологическую базу знаний по управлению направлением.
+- `01-vision` содержит верхнеуровневое видение, миссию, векторы развития и стратегические инициативы;
+- `02-strategy` содержит прикладные стратегии по направлениям ОИП и вспомогательные гайды по метрикам;
+- `03-processes` зарезервирован под описание рабочих процессов и регламентов, сейчас пуст;
+- `00-general-provisions` содержит общую методологическую базу знаний по управлению направлением.
 
 ## Основные документы
 
-- [Видение развития ОИП на 2025-2028 гг.](./01_vision/oip_vision_2026-2028.md)
-- [Модель управления Goals -> OKR -> KPI](./00_general_provisions/oip_management_model_goals_okr_kpi.md)
-- [Глоссарий проекта](./00_general_provisions/glossary.md)
-- [Продажи: стратегия](./02_strategy/01_sales/oip_sales_strategy_2026.md)
-- [Продажи: метрики](./02_strategy/01_sales/oip_sales_metrics_guide.md)
-- [Проектное направление: стратегия](./02_strategy/02_projects/oip_project_strategy_2026.md)
-- [Проектное направление: метрики](./02_strategy/02_projects/oip_project_metrics_guide.md)
-- [Сопровождение: стратегия](./02_strategy/03_support/oip_support_strategy_2026.md)
-- [Сопровождение: метрики](./02_strategy/03_support/oip_support_metrics_guide.md)
-- [СМБ / Service Factory: стратегия](./02_strategy/04_smb/oip_smb_strategy_2026.md)
-- [СМБ / Service Factory: метрики](./02_strategy/04_smb/oip_smb_metrics_guide.md)
-- [Delivery / группа разработки: стратегия](./02_strategy/05_delivery/oip_delivery_strategy_2026.md)
-- [Delivery / группа разработки: метрики](./02_strategy/05_delivery/oip_delivery_metrics_guide.md)
+- [Видение развития ОИП на 2025-2028 гг.](./01-vision/oip-vision-2026-2028.md)
+- [Модель управления Goals -> OKR -> KPI](./00-general-provisions/oip-management-model-goals-okr-kpi.md)
+- [Глоссарий проекта](./00-general-provisions/glossary.md)
+- [Продажи: стратегия](./02-strategy/01-sales/oip-sales-strategy-2026.md)
+- [Продажи: метрики](./02-strategy/01-sales/oip-sales-metrics-guide.md)
+- [Проектное направление: стратегия](./02-strategy/02-projects/oip-project-strategy-2026.md)
+- [Проектное направление: метрики](./02-strategy/02-projects/oip-project-metrics-guide.md)
+- [Сопровождение: стратегия](./02-strategy/03-support/oip-support-strategy-2026.md)
+- [Сопровождение: метрики](./02-strategy/03-support/oip-support-metrics-guide.md)
+- [СМБ / Service Factory: стратегия](./02-strategy/04-smb/oip-smb-strategy-2026.md)
+- [СМБ / Service Factory: метрики](./02-strategy/04-smb/oip-smb-metrics-guide.md)
+- [Delivery / группа разработки: стратегия](./02-strategy/05-delivery/oip-delivery-strategy-2026.md)
+- [Delivery / группа разработки: метрики](./02-strategy/05-delivery/oip-delivery-metrics-guide.md)
 
 ## Дерево проекта
 
 ```text
 oip_management/
-|-- [01_vision/](./01_vision/)
-|   `-- [oip_vision_2026-2028.md](./01_vision/oip_vision_2026-2028.md)
-|-- [00_general_provisions/](./00_general_provisions/)
-|   |-- [glossary.md](./00_general_provisions/glossary.md)
-|   `-- [oip_management_model_goals_okr_kpi.md](./00_general_provisions/oip_management_model_goals_okr_kpi.md)
-|-- [02_strategy/](./02_strategy/)
-|   |-- [01_sales/](./02_strategy/01_sales/)
-|   |   |-- [oip_sales_strategy_2026.md](./02_strategy/01_sales/oip_sales_strategy_2026.md)
-|   |   `-- [oip_sales_metrics_guide.md](./02_strategy/01_sales/oip_sales_metrics_guide.md)
-|   |-- [02_projects/](./02_strategy/02_projects/)
-|   |   |-- [oip_project_strategy_2026.md](./02_strategy/02_projects/oip_project_strategy_2026.md)
-|   |   `-- [oip_project_metrics_guide.md](./02_strategy/02_projects/oip_project_metrics_guide.md)
-|   |-- [03_support/](./02_strategy/03_support/)
-|   |   |-- [oip_support_strategy_2026.md](./02_strategy/03_support/oip_support_strategy_2026.md)
-|   |   `-- [oip_support_metrics_guide.md](./02_strategy/03_support/oip_support_metrics_guide.md)
-|   |-- [04_smb/](./02_strategy/04_smb/)
-|   |   |-- [oip_smb_strategy_2026.md](./02_strategy/04_smb/oip_smb_strategy_2026.md)
-|   |   `-- [oip_smb_metrics_guide.md](./02_strategy/04_smb/oip_smb_metrics_guide.md)
-|   |-- [05_delivery/](./02_strategy/05_delivery/)
-|   |   |-- [oip_delivery_strategy_2026.md](./02_strategy/05_delivery/oip_delivery_strategy_2026.md)
-|   |   `-- [oip_delivery_metrics_guide.md](./02_strategy/05_delivery/oip_delivery_metrics_guide.md)
-|   |-- [06_marketing/](./02_strategy/06_marketing/)        # пока пусто
-|   |-- [07_hr/](./02_strategy/07_hr/)                      # пока пусто
-|   `-- [08_finances/](./02_strategy/08_finances/)          # пока пусто
-|-- [03_processes/](./03_processes/)                        # пока пусто
+|-- [01-vision/](./01-vision/)
+|   `-- [oip-vision-2026-2028.md](./01-vision/oip-vision-2026-2028.md)
+|-- [00-general-provisions/](./00-general-provisions/)
+|   |-- [glossary.md](./00-general-provisions/glossary.md)
+|   `-- [oip-management-model-goals-okr-kpi.md](./00-general-provisions/oip-management-model-goals-okr-kpi.md)
+|-- [02-strategy/](./02-strategy/)
+|   |-- [01-sales/](./02-strategy/01-sales/)
+|   |   |-- [oip-sales-strategy-2026.md](./02-strategy/01-sales/oip-sales-strategy-2026.md)
+|   |   `-- [oip-sales-metrics-guide.md](./02-strategy/01-sales/oip-sales-metrics-guide.md)
+|   |-- [02-projects/](./02-strategy/02-projects/)
+|   |   |-- [oip-project-strategy-2026.md](./02-strategy/02-projects/oip-project-strategy-2026.md)
+|   |   `-- [oip-project-metrics-guide.md](./02-strategy/02-projects/oip-project-metrics-guide.md)
+|   |-- [03-support/](./02-strategy/03-support/)
+|   |   |-- [oip-support-strategy-2026.md](./02-strategy/03-support/oip-support-strategy-2026.md)
+|   |   `-- [oip-support-metrics-guide.md](./02-strategy/03-support/oip-support-metrics-guide.md)
+|   |-- [04-smb/](./02-strategy/04-smb/)
+|   |   |-- [oip-smb-strategy-2026.md](./02-strategy/04-smb/oip-smb-strategy-2026.md)
+|   |   `-- [oip-smb-metrics-guide.md](./02-strategy/04-smb/oip-smb-metrics-guide.md)
+|   |-- [05-delivery/](./02-strategy/05-delivery/)
+|   |   |-- [oip-delivery-strategy-2026.md](./02-strategy/05-delivery/oip-delivery-strategy-2026.md)
+|   |   `-- [oip-delivery-metrics-guide.md](./02-strategy/05-delivery/oip-delivery-metrics-guide.md)
+|   |-- [06-marketing/](./02-strategy/06-marketing/)        # пока пусто
+|   |-- [07-hr/](./02-strategy/07-hr/)                      # пока пусто
+|   `-- [08-finances/](./02-strategy/08-finances/)          # пока пусто
+|-- [03-processes/](./03-processes/)                        # пока пусто
 `-- [README.md](./README.md)
 ```
 
 ## Краткое описание разделов
 
-### `00_general_provisions`
+### `00-general-provisions`
 
 Общая база знаний по модели управления направлением: как связаны стратегические цели, OKR, KPI и мотивация руководителей. Также здесь лежит глоссарий терминов проекта.
 
-### `01_vision`
+### `01-vision`
 
 Раздел задаёт общую рамку развития ОИП: миссию, внешние факторы, ключевые компетенции, векторы роста до 2028 года, целевые результаты и стратегические инициативы.
 
-### `02_strategy`
+### `02-strategy`
 
 Основной рабочий раздел репозитория. В нём для каждого направления фиксируются:
 
@@ -88,15 +88,15 @@ oip_management/
 
 На текущий момент наполнены направления:
 
-- `01_sales` — продажи и управление входящим потоком, сделками, документами и дебиторской задолженностью;
-- `02_projects` — проектное направление;
-- `03_support` — сопровождение;
-- `04_smb` — СМБ / Service Factory;
-- `05_delivery` — delivery / группа разработки.
+- `01-sales` — продажи и управление входящим потоком, сделками, документами и дебиторской задолженностью;
+- `02-projects` — проектное направление;
+- `03-support` — сопровождение;
+- `04-smb` — СМБ / Service Factory;
+- `05-delivery` — delivery / группа разработки.
 
-Папки `06_marketing`, `07_hr`, `08_finances` пока остаются заготовками под последующее наполнение.
+Папки `06-marketing`, `07-hr`, `08-finances` пока остаются заготовками под последующее наполнение.
 
-### `03_processes`
+### `03-processes`
 
 Каталог под процессы, регламенты, схемы взаимодействия и операционные инструкции. На момент анализа файлов ещё не заполнен.
 
